@@ -15,6 +15,9 @@
     height: auto;
     padding: 20px;
   }
+  .dugme{
+    width: 50px; /* Set width to 50px */
+  }
   
   .content {
     display: flex;
@@ -53,8 +56,8 @@
   
   .input {
     color: #fff;
-    height: 3em;
-    width: 3em;
+    height:30px;
+    width: 30px;
     float: left;
     text-align: center;
     background: #00000000;
